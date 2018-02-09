@@ -100,7 +100,8 @@
               "color": "#000000"
             },
             "H5": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_name": "header12",
@@ -1042,7 +1043,7 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies",
+            "sound": "",
             "autoplay": true,
             "fullWidth": true,
             "bgColor": "#faf37c"
