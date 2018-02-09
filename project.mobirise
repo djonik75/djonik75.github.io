@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 162,
     "versionPublish": "4.6.4",
@@ -1042,10 +1042,10 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
+            "sound": "https://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies\nhttps://soundcloud.com/mobirise/blue-skies",
             "autoplay": true,
             "fullWidth": true,
-            "bgColor": "#fff"
+            "bgColor": "#faf37c"
           },
           "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
           "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
