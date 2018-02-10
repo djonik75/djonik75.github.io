@@ -1773,6 +1773,20 @@ body {
 .cid-qJ1Vhdqfod H5 {
   color: #000000;
 }
+.cid-qJggU1F8dZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #faf37c);
+}
+.cid-qJggU1F8dZ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qJggU1F8dZ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qJbYHMaVt1 .navbar {
   background: #ffffff;
   transition: none;
