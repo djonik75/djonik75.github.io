@@ -2344,6 +2344,7 @@ body {
 }
 .cid-qJ8RgJ4gMM .mbr-section-subtitle {
   color: #000000;
+  text-align: center;
 }
 .cid-qJ8RgJ4gMM a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2360,6 +2361,9 @@ body {
 .cid-qJ8RgJ4gMM .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qJ8RgJ4gMM .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-qJ8RksMeeq {
   padding-top: 45px;
