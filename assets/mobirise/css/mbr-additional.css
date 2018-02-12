@@ -2347,26 +2347,26 @@ body {
     height: auto !important;
   }
 }
-.cid-qJfCIIUmWM {
+.cid-qJt9nnPDHh {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #faf37c;
 }
-.cid-qJfCIIUmWM .mbr-slider .carousel-control {
+.cid-qJt9nnPDHh .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qJfCIIUmWM .mbr-slider .carousel-control-prev {
+.cid-qJt9nnPDHh .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qJfCIIUmWM .mbr-slider .carousel-control-next {
+.cid-qJt9nnPDHh .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qJfCIIUmWM .mbr-slider .modal-body .close {
+.cid-qJt9nnPDHh .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qJfCIIUmWM .mbr-gallery-item > div::before {
+.cid-qJt9nnPDHh .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2379,13 +2379,13 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qJfCIIUmWM .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-qJt9nnPDHh .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-qJfCIIUmWM .mbr-gallery-item > div:hover:before {
+.cid-qJt9nnPDHh .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-qJfCIIUmWM .mbr-gallery-title {
+.cid-qJt9nnPDHh .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2395,7 +2395,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-qJfCIIUmWM .mbr-gallery-title:before {
+.cid-qJt9nnPDHh .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;

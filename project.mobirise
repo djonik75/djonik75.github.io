@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Ремонт квартир в Саратове",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 240,
+    "uniqCompNum": 241,
     "versionPublish": "4.6.4",
     "theme": {
       "name": "mobirise4",
@@ -1413,10 +1413,8 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Градиентное наложение\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Наложение  Цвет 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n\n        <input type=\"gallery\" title=\"Галерея\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
-          "_anchor": "gallery1-4y",
-          "_isUserblock": true,
-          "_cid": "qJfCIIUmWM",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Градиентное наложение\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Наложение  Цвет 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n\n        <input type=\"gallery\" title=\"Галерея\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
+          "_cid": "qJt9nnPDHh",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -1435,27 +1433,15 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/1-2-1195x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2-1195x800-800x534.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Тип надписи",
-                "active": false
-              },
-              {
-                "tags": "Отзывчивый",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/1-9-1600x1066.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-9-1600x1066-800x532.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт квартиры и утепление лоджии",
                 "active": false
               },
               {
-                "tags": "Креативный",
+                "tags": "Отзывчивый",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1463,11 +1449,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-13-840x630-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ванная под ключ",
                 "active": false
               },
               {
-                "tags": "Анимированный",
+                "tags": "Креативный",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1475,11 +1461,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3-4-900x675-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ванная под ключ",
                 "active": false
               },
               {
-                "tags": "Потрясающий",
+                "tags": "Анимированный",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1487,7 +1473,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/255b2842-0baf-42eb-be9d-6569c17ccd5c-1-1024x768-800x601.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Санузел под ключ",
                 "active": false
               },
               {
@@ -1495,27 +1481,15 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/619-2-600x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/619-2-600x600-600x600.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Тип надписи",
-                "active": false
-              },
-              {
-                "tags": "Отзывчивый",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/6219planirovka-kuxni-v-xrushhevke-8-1600x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6219planirovka-kuxni-v-xrushhevke-8-1600x1200-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Косметический ремонт квартиры",
                 "active": false
               },
               {
-                "tags": "Анимированный",
+                "tags": "Потрясающий",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1523,11 +1497,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/12007472-1-644x461-remont-kvartir-pod-klyuch-ot-a-do-ya-tashkent-2-610x456-609x456.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт квартиры под ключ",
                 "active": false
               },
               {
-                "tags": "Анимированный",
+                "tags": "Отзывчивый",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1535,7 +1509,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1431950177-shtori-dlya-kuhni-s-balkonom08-5-600x450-599x450.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт квартиры под ключ",
                 "active": false
               },
               {
@@ -1547,7 +1521,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/byudzhetnyj-remont-vannoj-38-750x563-749x563.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ванная под ключ",
                 "active": false
               },
               {
@@ -1555,11 +1529,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dbafc569753537a8b39aac409a04c2d7-3-1199x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dbafc569753537a8b39aac409a04c2d7-3-1199x800-799x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/d180d0b5d0bcd0bed0bdd182-d0bad0b2d0b0d180d182d0b8d180-d0bfd0bed0b4-d0bad0bbd18ed187-d0b2-d0b2d0bed0bbd0b3d0bed0b3d180d0b0d0b4-1-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/d180d0b5d0bcd0bed0bdd182-d0bad0b2d0b0d180d182d0b8d180-d0bfd0bed0b4-d0bad0bbd18ed187-d0b2-d0b2d0bed0bbd0b3d0bed0b3d180d0b0d0b4-1-1024x768-800x601.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Капитальный ремонт квартиры под ключ (начало работ)",
                 "active": false
               },
               {
@@ -1567,23 +1541,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dizajn-kvartir-1-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dizajn-kvartir-1-800x600-799x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-104-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-104-1600x1200-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
-                "active": false
-              },
-              {
-                "tags": "Анимированный",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-103-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-103-1600x1200-800x600.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт в квартире от застройщика",
                 "active": false
               },
               {
@@ -1595,7 +1557,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-4253-800x600-1-1200x900-800x601.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Капитальный ремонт квартиры под ключ (финиш)",
                 "active": false
               },
               {
@@ -1607,7 +1569,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/portfolio-kuxnya2-1-800x600-799x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт квартиры под ключ в новостройке",
                 "active": false
               },
               {
@@ -1619,7 +1581,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/remont-vannoj-1-1000x1333-800x1065.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Санузлы под ключ",
                 "active": false
               },
               {
@@ -1627,11 +1589,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/remont-kuhni-5-1280x853.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/remont-kuhni-5-1280x853-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/remont-kuhni-6-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/remont-kuhni-6-1280x853-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт квартиры под ключ в новостройке",
                 "active": false
               },
               {
@@ -1643,7 +1605,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/remont-kvartir-1-2000x1333-800x534.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Капитальный ремонт квартиры в кирпичной хрущёвке",
                 "active": false
               },
               {
@@ -1651,11 +1613,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/remont-odnokomnatnoi-kvartiry-photo-nauki-7-700x525.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/remont-odnokomnatnoi-kvartiry-photo-nauki-7-700x525-699x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/remont-odnokomnatnoi-kvartiry-photo-nauki-8-700x525.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/remont-odnokomnatnoi-kvartiry-photo-nauki-8-700x525-699x519.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремнот квартиры недорого в панельном доме",
                 "active": false
               },
               {
@@ -1667,7 +1629,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/remont-pod-kluch-1-1300x866-800x532.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ванная под ключ",
                 "active": false
               },
               {
@@ -1679,7 +1641,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-1024x768-800x601.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Капитальный ремонт под ключ",
                 "active": false
               },
               {
@@ -1691,23 +1653,12 @@
                 "thumb": "@PROJECT_PATH@/assets/images/7-1024x683-800x534.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Тип надписи",
-                "active": false
-              },
-              {
-                "tags": "Анимированный",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-650x463.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/650x463-650x462.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Тип надписи",
+                "caption": "Ремонт под ключ в однушке",
                 "active": true
               }
             ]
-          }
+          },
+          "_anchor": "gallery1-6o"
         },
         {
           "_styles": {
