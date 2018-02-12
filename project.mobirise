@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ремонт квартир в Саратове",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 210,
     "versionPublish": "4.6.4",
@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "http://yutmaster64.ru ",
+    "siteUrl": "http://yutmaster.000webhostapp.com/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
