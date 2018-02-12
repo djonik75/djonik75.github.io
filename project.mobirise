@@ -3,7 +3,7 @@
     "name": "Ремонт квартир в Саратове",
     "currentPage": "page3.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 227,
+    "uniqCompNum": 229,
     "versionPublish": "4.6.4",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
       "settings": {
         "main": true,
         "title": "Ремонт квартир под ключ в Саратове и Энгельсе",
-        "meta_descr": "Ремонт квартир в саратове, штукатурка по маякам, шпаклёвка стен, кафель, укладка ламината, укладка линолеума, монтаж перегородок из гипсокартона, поклейка обоев, ванная под ключ,  облицовка кафелем, сантехника, сантехнические работы, замена труб, замена стояков, устройство проводки, монтаж проводки, монтаж сантехники,  штукатурка, замена проводки, мастер на час, плиточник, электрик, сантехник, фактурная штукатурка, Отделочные работы,  Ремонт офисных помещений, механизированная штукатурка, стяжка, гидроизоляция, монтаж прегородок из кирпича, монтаж перегородок из блоков, ремонт ванной, декоративная штукатурка, жидкие обои, нанесение жидких обоев, покраска стен и потолков, покраска потолков, ремонт квартиры недорого, ремонт квартир цены, монтаж электропроводки, монтаж электрики, проводка, ремонт квартиры не дорого, положить плитку, сделать сантехнику, провода, трубы, поклеить обои, положить ламинат, постелить ленолеум, сделать перегородки, сделать стены, перегородки, покрасить, поклеить обои, машинная штукатурка, стяжка, арки из гипсокартона ",
+        "meta_descr": "Ремонт квартир в саратове, штукатурка по маякам, шпаклёвка стен,  укладка ламината, укладка линолеума, монтаж перегородок из гипсокартона, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1083,7 +1083,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Ремонт квартир в саратове, штукатурка по маякам, шпаклёвка стен, кафель, укладка ламината, укладка линолеума, монтаж перегородок из гипсокартона, поклейка обоев, ванная под ключ,  облицовка кафелем, сантехника, сантехнические работы, замена труб, замена стояков, устройство проводки, монтаж проводки, монтаж сантехники,  штукатурка, замена проводки, мастер на час, плиточник, электрик, сантехник, фактурная штукатурка, Отделочные работы,  Ремонт офисных помещений, механизированная штукатурка, стяжка, гидроизоляция, монтаж прегородок из кирпича, монтаж перегородок из блоков, ремонт ванной, декоративная штукатурка, жидкие обои, нанесение жидких обоев, покраска стен и потолков, покраска потолков, ремонт квартиры недорого, ремонт квартир цены, монтаж электропроводки, монтаж электрики, проводка, ремонт квартиры не дорого, положить плитку, сделать сантехнику, провода, трубы, поклеить обои, положить ламинат, постелить ленолеум, сделать перегородки, сделать стены, перегородки, покрасить, поклеить обои, машинная штукатурка, стяжка, арки из гипсокартона , наливной пол",
+        "meta_descr": "декоративная штукатурка, жидкие обои, нанесение жидких обоев, ремонт квартиры недорого, монтаж электропроводки, положить плитку, сделать сантехнику, поклеить обои",
         "title": "Ремонт квартир в саратове, укладка плитки, монтаж сантехники",
         "order": 6
       },
@@ -2228,7 +2228,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Ремонт квартир в саратове, штукатурка по маякам, шпаклёвка стен, кафель, укладка ламината, укладка линолеума, монтаж перегородок из гипсокартона, поклейка обоев, ванная под ключ,  облицовка кафелем, сантехника, сантехнические работы, замена труб, замена стояков, устройство проводки, монтаж проводки, монтаж сантехники,  штукатурка, замена проводки, мастер на час, плиточник, электрик, сантехник, фактурная штукатурка, Отделочные работы,  Ремонт офисных помещений, механизированная штукатурка, стяжка, гидроизоляция, монтаж прегородок из кирпича, монтаж перегородок из блоков, ремонт ванной, декоративная штукатурка, жидкие обои, нанесение жидких обоев, покраска стен и потолков, покраска потолков, ремонт квартиры недорого, ремонт квартир цены, монтаж электропроводки, монтаж электрики, проводка, ремонт квартиры не дорого, положить плитку, сделать сантехнику, провода, трубы, поклеить обои, положить ламинат, постелить ленолеум, сделать перегородки, сделать стены, перегородки, покрасить, поклеить обои, машинная штукатурка, стяжка, арки из гипсокартона ,",
+        "meta_descr": "замена проводки, мастер на час, плиточник, электрик, сантехник, механизированная штукатурка, стяжка, гидроизоляция, монтаж прегородок из кирпича, монтаж перегородок из блоков, ",
         "title": "О нас, ремонт квартир качественно",
         "order": 5
       },
@@ -2909,7 +2909,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Ремонт квартир в саратове, штукатурка по маякам, шпаклёвка стен, кафель, укладка ламината, укладка линолеума, монтаж перегородок из гипсокартона, поклейка обоев, ванная под ключ,  облицовка кафелем, сантехника, сантехнические работы, замена труб, замена стояков, устройство проводки, монтаж проводки, монтаж сантехники,  штукатурка, замена проводки, мастер на час, плиточник, электрик, сантехник, фактурная штукатурка, Отделочные работы,  Ремонт офисных помещений, механизированная штукатурка, стяжка, гидроизоляция, монтаж прегородок из кирпича, монтаж перегородок из блоков, ремонт ванной, декоративная штукатурка, жидкие обои, нанесение жидких обоев, покраска стен и потолков, покраска потолков, ремонт квартиры недорого, ремонт квартир цены, монтаж электропроводки, монтаж электрики, проводка, ремонт квартиры не дорого, положить плитку, сделать сантехнику, провода, трубы, поклеить обои, положить ламинат, постелить ленолеум, сделать перегородки, сделать стены, перегородки, покрасить, поклеить обои, машинная штукатурка, стяжка, арки из гипсокартона , ",
+        "meta_descr": "поклейка обоев, ванная под ключ,  сантехника, сантехнические работы, замена труб, замена стояков, монтаж проводки, монтаж сантехники,  штукатурка, ",
         "title": "Ремонт квартир недорого, штукатурка, шпаклёвка стен",
         "order": 4
       },
@@ -3457,7 +3457,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/10-2-1980x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>1) Заключив с нами договор Вы получатете гарантию качественного ремонта. Мы даём гарантию 5лет на все призведённые нами работы.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/10-2-1980x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>1) Заключив с нами договор Вы получатете гарантию качественного ремонта. Мы даём гарантию 5лет на все призведённые нами работы.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qJkRhIeAJz",
           "_anchor": "content6-5b",
           "_protectedParams": [],
@@ -3488,7 +3488,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/1447085172-remont-plan-rabot6-4-1920x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>2) Все работы производятся одной фирмой и Вам не&nbsp;придётся&nbsp;бегать в поисках различных специалистов. У нас имеются все необходимые мастера.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/1447085172-remont-plan-rabot6-4-1920x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>2) Все работы производятся одной фирмой и Вам не&nbsp;придётся&nbsp;бегать в поисках различных специалистов. У нас имеются все необходимые мастера.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qJkRiMMGjh",
           "_anchor": "content6-5c",
           "_protectedParams": [],
@@ -3519,7 +3519,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img1-3-1980x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>3) При Вашем желании мы можем полностью взять на себя заботы по закупке, доставке и подъёму черновых материалов, вывозу строительного мусора, избавив Вас от лишних хлопот. Вам останется лишь выбрать финишные материалы, такие как: обои, ламинат(линолеум), кафель и прочие элементы декора.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img1-3-1980x1200.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>3) При Вашем желании мы можем полностью взять на себя заботы по закупке, доставке и подъёму черновых материалов, вывозу строительного мусора, избавив Вас от лишних хлопот. Вам останется лишь выбрать финишные материалы, такие как: обои, ламинат(линолеум), кафель и прочие элементы декора.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qJkRjYbMHP",
           "_anchor": "content6-5d",
           "_protectedParams": [],
@@ -3550,7 +3550,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img26052010155629-1-256x256.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>4) Если вдруг специалист, выполняющий ремонт в Вашей квартире, заболеет или же произойдёт другая форс мажорная ситуация, то на замену ему придёт наш другой специалист. Таким образом Ваш ремонт не затянется.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img26052010155629-1-256x256.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>4) Если вдруг специалист, выполняющий ремонт в Вашей квартире, заболеет или же произойдёт другая форс мажорная ситуация, то на замену ему придёт наш другой специалист. Таким образом Ваш ремонт не затянется.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qJkRkUgSDG",
           "_anchor": "content6-5f",
           "_protectedParams": [],
@@ -3581,7 +3581,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/1511113107-889-700x300.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>5) Все работы производятся специалистами одной фирмы, работы выполняются качественно, как говорится всё делается под себя. Таким образом работы ведутся чётко и слаженно, не возникает лишних вопросов и согласований, что существенно повышает скорость и качество ремонта.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#faf37c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/1511113107-889-700x300.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>5) Все работы производятся специалистами одной фирмы, работы выполняются качественно, как говорится всё делается под себя. Таким образом работы ведутся чётко и слаженно, не возникает лишних вопросов и согласований, что существенно повышает скорость и качество ремонта.</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qJkWj2qCFY",
           "_anchor": "content6-5g",
           "_protectedParams": [],
@@ -4609,6 +4609,32 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "H2": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_name": "content5",
+          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/jumbotron.jpg\" parallax>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#faf37c\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    У Вас ещё остались вопросы?</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Тогда звоните нам, мы охотно проконсультируем Вас по всем вопросам ремонта Вашей квартиры, дома или офиса.</h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Создайте свой проект с утонченным дизайном и  возможностью коррекции кода\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qJsQ11a43x",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content5-6b"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
@@ -4693,6 +4719,26 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/mobirise/blue-skies",
+            "autoplay": true,
+            "fullWidth": false,
+            "bgColor": "#fff"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Расширения"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-6c"
         }
       ]
     },
