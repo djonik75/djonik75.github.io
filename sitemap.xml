@@ -1,14 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://yutmaster.000webhostapp.com/index.html</loc>
+		<loc>http://yutmaster64.ru/index.html</loc>
 	</url>
 	<url>
-		<loc>http://yutmaster.000webhostapp.com/page1.html</loc>
+		<loc>http://yutmaster64.ru/page1.html</loc>
 	</url>
 	<url>
-		<loc>http://yutmaster.000webhostapp.com/page2.html</loc>
+		<loc>http://yutmaster64.ru/page2.html</loc>
 	</url>
 	<url>
-		<loc>http://yutmaster.000webhostapp.com/page3.html</loc>
+		<loc>http://yutmaster64.ru/page3.html</loc>
+	</url>
+	<url>
+		<loc>http://yutmaster64.ru/page4.html</loc>
+	</url>
+	<url>
+		<loc>http://yutmaster64.ru/page5.html</loc>
+	</url>
+	<url>
+		<loc>http://yutmaster64.ru/page6.html</loc>
 	</url>
 </urlset>
